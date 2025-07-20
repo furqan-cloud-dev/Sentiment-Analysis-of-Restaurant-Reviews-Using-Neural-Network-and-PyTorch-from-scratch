@@ -1,0 +1,9 @@
+text,label
+"I love the food and service!",positive
+"The place was dirty and the staff was rude.",negative
+"Average food, but great ambiance.",neutral
+"The waiter should check in more often.",constructive feedback
+"The pizza was horrible, I hated it!",strongly negative
+"Absolutely amazing experience. Loved everything!",strongly positive
+"This was dumb and stupid service.",abusive
+"Could improve the seating arrangement.",constructive feedback
