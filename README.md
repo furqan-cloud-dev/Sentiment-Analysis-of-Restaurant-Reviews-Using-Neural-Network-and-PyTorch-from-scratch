@@ -12,4 +12,7 @@ Step-by-Step guide with explanations Of Python Code Examples
 ✨ Brought to you by AI Campus – Your gateway to AI knowledge.
 
 
+🧠 Dive deep into the techniques of Natural Language Processing (NLP) and discover how to rewire your brain to solve real-world problems.
+
+
 ![Unlock The Mystery Behind Artificial Neural Network - AI Magazine](../main/images/image.png)

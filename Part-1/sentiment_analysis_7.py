@@ -3,6 +3,17 @@ Train, Test and Predict Model
 Integrate Vector Normalization
 """
 
+
+"""
+Why we are doing this?
+Get to know your answers in detail
+------------------------
+Step-by-Step guide with explanations Of Python Code Examples
+👇 Get your instant download now for this AI Magazine (PDF Format):
+🔗 https://aicampusmagazines.gumroad.com/l/loukc
+
+"""
+
 # Min-Max Normalization - GLOBALS Reuse in Normalization Function
 min_vals = None
 max_vals = None

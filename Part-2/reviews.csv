@@ -3,7 +3,111 @@ text,label
 "The place was dirty and the staff was rude.",negative
 "Average food, but great ambiance.",neutral
 "The waiter should check in more often.",constructive feedback
-"The pizza was horrible, I hated it!",strongly negative
-"Absolutely amazing experience. Loved everything!",strongly positive
-"This was dumb and stupid service.",abusive
+"The pizza was horrible, I hated it!",negative
+"Absolutely amazing experience. Loved everything!",positive
+"This was dumb and stupid service.",negative
 "Could improve the seating arrangement.",constructive feedback
+"The pasta was perfectly cooked and delicious.",positive
+"Long wait times and cold food.",negative
+"Decent prices for the portion size.",neutral
+"Staff could be more attentive to customers.",constructive feedback
+"Worst dining experience ever! Never coming back!",negative
+"Outstanding food quality and presentation!",positive
+"Terrible service, incompetent staff.",negative
+"Menu could use more vegetarian options.",constructive feedback
+"Great atmosphere and friendly staff.",positive
+"Food arrived late and was overpriced.",negative
+"The restaurant is okay, nothing special.",neutral
+"Consider adding more parking spaces.",constructive feedback
+"Disgusting food, made me sick!",strongly negative
+"Exceptional service and incredible flavors!",positive
+"Rude waiters, terrible management.",negative
+"Online ordering system needs improvement.",constructive feedback
+"Fresh ingredients and well-prepared dishes.",positive
+"Noisy environment and uncomfortable seating.",negative
+"Standard restaurant with average service.",neutral
+"Delivery could be faster for busy hours.",constructive feedback
+"Absolutely revolting! Wasted my money!",negative
+"Best restaurant in town! Highly recommended!",positive
+"Stupid policies and arrogant staff.",negative
+"WiFi connection could be more reliable.",constructive feedback
+"Excellent customer service and tasty food.",positive
+"Poor hygiene standards in the kitchen area.",negative
+"Fair pricing for the quality offered.",neutral
+"Consider extending operating hours on weekends.",constructive feedback
+"Horrible experience, never ordering again!",negative
+"Phenomenal dining experience, will definitely return!",positive
+"Pathetic service, waste of time.",negative
+"Temperature control in dining area needs attention.",constructive feedback
+"Delicious desserts and great coffee.",positive
+"Slow service and lukewarm food.",negative
+"The location is convenient and accessible.",neutral
+"Staff training on dietary restrictions would help.",constructive feedback
+"Terrible quality, completely disappointed!",negative
+"Amazing food and perfect ambiance!",positive
+"Ridiculous wait times, horrible management.",negative
+"Consider offering healthier menu options.",constructive feedback
+"Wonderful flavors and generous portions.",positive
+"Unclean tables and poor presentation.",negative
+"The restaurant meets basic expectations.",neutral
+"Payment options could be more diverse.",constructive feedback
+"Worst meal I've ever had!",strongly negative
+"Incredible taste and beautiful presentation!",positive
+"Awful service, completely unprofessional.",negative
+"Music volume could be adjusted during peak hours.",constructive feedback
+"Great value for money and good taste.",positive
+"Food quality has declined recently.",negative
+"Adequate service and reasonable prices.",neutral
+"Consider implementing a reservation system.",constructive feedback
+"Absolutely terrible, would not recommend!",negative
+"Perfect dining experience from start to finish!",positive
+"Incompetent staff, terrible attitude.",negative
+"Lighting in the dining area could be improved.",constructive feedback
+"Fresh salads and excellent preparation.",positive
+"Overpriced for the quality provided.",negative
+"Standard fare, nothing particularly impressive.",neutral
+"Drive-thru service could be more efficient.",constructive feedback
+"Disgusting! How is this place still open?",negative
+"Extraordinary culinary experience, absolutely loved it!",positive
+"Rude behavior from management, unacceptable.",negative
+"Consider adding more gluten-free options.",constructive feedback
+"Friendly staff and delicious appetizers.",positive
+"Cold food and inattentive service.",negative
+"The restaurant is fine for a quick meal.",neutral
+"Washroom facilities need better maintenance.",constructive feedback
+"Horrible taste, completely inedible!",strongly negative
+"Best dining experience I've had in years!",positive
+"Terrible attitude, completely unprofessional behavior.",negative
+"Consider offering senior citizen discounts.",constructive feedback
+"Excellent spice levels and authentic flavors.",positive
+"Long waiting time and mediocre food.",negative
+"Acceptable quality for the price range.",neutral
+"Outdoor seating area could use some improvement.",constructive feedback
+"Worst restaurant experience ever!",negative
+"Absolutely spectacular food and service!",positive
+"Idiotic policies, worst staff ever.",negative
+"Consider adding more kid-friendly options.",constructive feedback
+"Great presentation and wonderful taste.",positive
+"Poor ventilation and stuffy atmosphere.",negative
+"The meal was satisfactory overall.",neutral
+"Loyalty program would be a nice addition.",constructive feedback
+"Completely awful, total waste of money!",negative
+"Fantastic restaurant with amazing attention to detail!",positive
+"Horrible service, completely disappointed.",negative
+"Consider offering cooking classes or events.",constructive feedback
+"Tasty food and clean environment.",positive
+"Bland flavors and small portions.",negative
+"Average restaurant with typical offerings.",neutral
+"Consider partnering with food delivery apps.",constructive feedback
+"Terrible experience, never going back!",negative
+"Outstanding quality and exceptional service!",positive
+"Stupid rules, terrible customer service.",negative
+"Digital menu boards would be more convenient.",constructive feedback
+"Delicious main courses and great sides.",positive
+"Expensive prices for mediocre quality.",negative
+"The restaurant serves its purpose adequately.",neutral
+"Consider offering combo meal deals.",constructive feedback
+"Absolutely disgusting food and service!",negative
+"Perfect restaurant with incredible attention to customer satisfaction!",positive
+"Worst management, completely incompetent staff.",negative
+"Consider implementing eco-friendly packaging.",constructive feedback

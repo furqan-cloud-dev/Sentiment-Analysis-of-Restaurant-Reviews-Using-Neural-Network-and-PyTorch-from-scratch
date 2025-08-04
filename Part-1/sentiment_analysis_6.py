@@ -10,14 +10,22 @@ nltk.download('stopwords')
 stop_words = set(stopwords.words('english'))
 
 
+"""
+Why we are doing this?
+Get to know your answers in detail
+------------------------
+Step-by-Step guide with explanations Of Python Code Examples
+👇 Get your instant download now for this AI Magazine (PDF Format):
+🔗 https://aicampusmagazines.gumroad.com/l/loukc
+
+"""
+
 # Updated - Text Processing
 def preprocess(text):
     text = text.lower()
     text = re.sub(r"[^\w\s]", "", text)
     tokens = text.split()
 
-    # Build n-grams up to trigrams
-    # To match multi-word phrases like "amazing service", "not good", "should add more" etc.
     ngrams = []
     for i in range(len(tokens) - 1):
         bigram = tokens[i] + " " + tokens[i + 1]

@@ -1,4 +1,19 @@
-# 3. Efficiently Handle Big Datasets
+# Efficiently Handle Big Datasets
+
+# Heuristic Labeling Function (if unlabeled)
+#If you don’t have labeled data:
+
+def infer_label(text):
+    # simple heuristic or rules
+    if any(w in text.lower() for w in ["worst", "awful", "disgusting", "bad"]):
+        return "negative"
+    elif any(w in text.lower() for w in ["excellent", "perfect", "amazing", "great"]):
+        return "positive"
+    elif any(w in text.lower() for w in ["could", "should", "suggest"]):
+        return "constructive feedback"
+    else:
+        return "neutral"
+
 
 # Use chunks when reading huge CSV/JSON files:
 
@@ -16,24 +31,7 @@ for chunk in chunks:
 
 
 
-# 4. Heuristic Labeling Function (if unlabeled)
-#If you don’t have labeled data:
-
-
-def infer_label(text):
-    # simple heuristic or rules
-    if any(w in text.lower() for w in ["worst", "awful", "disgusting", "bad"]):
-        return "negative"
-    elif any(w in text.lower() for w in ["excellent", "perfect", "amazing", "great"]):
-        return "positive"
-    elif any(w in text.lower() for w in ["could", "should", "suggest"]):
-        return "constructive feedback"
-    else:
-        return "neutral"
-
-
-
-# 5. Save Model to Google Drive (optional)
+# Save Model to Google Drive (optional)
 
 from google.colab import drive
 drive.mount('/content/drive')
@@ -44,6 +42,7 @@ torch.save(model.state_dict(), "/content/drive/MyDrive/sentiment_model.pth")
 # Instead of counting words one by one, you can vectorize it:
 
 import numpy as np
+from data import word_dict
 
 def extract_features_fast(tokens):
     features = np.zeros(len(word_dict))
