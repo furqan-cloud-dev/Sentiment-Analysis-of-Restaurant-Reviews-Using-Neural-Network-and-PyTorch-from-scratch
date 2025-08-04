@@ -12,4 +12,4 @@ Step-by-Step guide with explanations Of Python Code Examples
 ✨ Brought to you by AI Campus – Your gateway to AI knowledge.
 
 
-![Unlock The Mystery Behind Artificial Neural Network - AI Magazine](images/Unlock The Mystery Behind Neural Networks - AI Magazine.png)
+![Unlock The Mystery Behind Artificial Neural Network - AI Magazine](../main/images/image.png)
