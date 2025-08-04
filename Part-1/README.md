@@ -1,5 +1,16 @@
 # Build a sentiment analysis pipeline from scratch using PyTorch.
 
+This project is part of AI Magazine: 
+"Unlock The Mystery Behind Artificial Neural Network - NLP Sentiment Analysis Of Food & Restaurants Reviews"
+
+Train a Neural Network in PyTorch: A Complete Beginner's Walkthrough
+
+Step-by-Step guide with explanations Of Python Code Examples
+👇 Get your instant download now for this AI Magazine (PDF Format):
+🔗 https://aicampusmagazines.gumroad.com/l/loukc
+
+✨ Brought to you by AI Campus – Your gateway to AI knowledge.
+
 
 Text preprocessing and feature extraction
 
@@ -45,55 +56,10 @@ One or two hidden layers with ReLU are enough
 
 
 
-🔸 Feature Classes (used as input signals):
-negative
-
-strongly negative
-
-abusive
-
-positive
-
-strongly positive
-
-neutral
-
-constructive feedback
-
-➡ 7-dimensional input feature vector
-
-🔸 Output Classes (model prediction):
-negative
-
-positive
-
-neutral
-
-constructive feedback
-
-➡ 4-class classification problem
-
-----------------------------------------------
-
-
 🏋️ Step 6: Training Loop
 
 
 🎯 Step 7: Prediction
-
-
-
-✅ Summary
-
-| Component         | Description                                         |
-| ----------------- | --------------------------------------------------- |
-| **Input**         | 7 features (based on token match counts)            |
-| **Hidden layers** | 2 hidden layers of 16 neurons each                  |
-| **Output**        | 4 labels: negative, positive, neutral, constructive |
-| **Loss Function** | `NLLLoss` (with `log_softmax`)                      |
-| **Output Prob.**  | Yes, via `log_softmax` for interpretability         |
-
-
 
 
 
