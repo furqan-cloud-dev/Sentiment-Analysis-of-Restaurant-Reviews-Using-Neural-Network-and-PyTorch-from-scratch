@@ -7,7 +7,7 @@ Train a Neural Network in PyTorch: A Complete Beginner's Walkthrough
 
 Step-by-Step guide with explanations Of Python Code Examples
 👇 Get your instant download now for this AI Magazine (PDF Format):
-🔗 https://aicampusmagazines.gumroad.com/l/loukc
+🔗 https://aicampus.etsy.com/listing/4408280854/unlock-the-mystery-behind-neural-network
 
 ✨ Brought to you by AI Campus – Your gateway to AI knowledge.
 
